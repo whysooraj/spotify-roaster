@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "a4d99874-582c-4a35-8818-9912742cfb50",
+    "created_at": "2026-08-15T05:45:12.193Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "3a8ca6d3-8762-4ad4-b7c2-774d5a8e087f",
+    "created_at": "2026-08-15T06:51:29.585Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "d6e025ac-5651-4499-a19a-e7301e7cc962",
+    "created_at": "2026-08-15T06:54:52.684Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Tame Impala"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "The Emotionally Fragile Listener",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to Tame Impala and other questionable choices. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Tame Impala",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "7e0ccd7e-2c7c-4fc2-92d4-6790db2c9a68",
+    "created_at": "2026-08-15T07:11:24.228Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "f19a4c3f-b858-4af6-aa42-aacbfacf60fc",
+    "created_at": "2026-08-15T07:11:30.583Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "5f2d3e4c-7220-43e7-9169-69136bc2bee7",
+    "created_at": "2026-08-15T07:13:11.690Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "44b9ace1-f2cf-4fe4-95e8-22fba018b135",
+    "created_at": "2026-08-15T07:18:31.042Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "weekend"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "The Emotionally Fragile Listener",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to weekend and other questionable choices. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "weekend",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "d5d844b1-4814-4a10-9383-4bb87ab98ab6",
+    "created_at": "2026-08-15T07:23:51.435Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "42a8a6ed-6ec9-46dd-aaf7-01573eca8238",
+    "created_at": "2026-08-15T07:55:28.271Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "61fcfbca-686e-4900-b5c3-2908ab852cf1",
+    "created_at": "2026-08-15T08:02:42.944Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "3d6a3497-2a51-4504-bfd9-fe6efb526856",
+    "created_at": "2026-08-15T10:01:42.397Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "8a61fb49-1757-4adb-8024-17b995211c17",
+    "created_at": "2026-08-15T14:03:41.322Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "0ad0300d-82c1-4aa9-a36a-bd496a3a101b",
+    "created_at": "2026-08-15T16:27:27.842Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "5fd82753-e9a3-45ed-b2ff-29292afc7409",
+    "created_at": "2026-08-15T16:28:56.945Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "west"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "Pretentious Coffee Shop Dweller",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to west and other questionable choices. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "west",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "7cedf11d-3956-408a-929f-22e99dfe0ff6",
+    "created_at": "2026-08-15T16:29:25.359Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 96,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "commercials",
+        "advertising"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "Taylor Swift",
+        "Drake",
+        "Ed Sheeran",
+        "Spotify Ads Announcer"
+      ],
+      "trackNames": [
+        "Spotify Free Ad Break",
+        "Blinding Lights",
+        "Shape of You",
+        "Broke Boy Anthems"
+      ],
+      "recentlyPlayed": [
+        "Spotify Free Ad by Spotify"
+      ],
+      "isPremiumRestricted": true
+    },
+    "title": "Spotify Free NPC",
+    "roast_text": "You are too broke to afford Spotify Premium, so Spotify blocked us from accessing your actual top tracks to spare you the embarrassment. We had to use fallback pop charts to simulate a personality for you. Enjoy your next audio ad, budget listener!",
+    "level": "BROKE BOY TASTE",
+    "is_premium_restricted": true,
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "Taylor Swift",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=100"
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "hip hop",
+          "pop rap"
+        ],
+        "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100"
+      },
+      {
+        "name": "Ed Sheeran",
+        "genres": [
+          "pop"
+        ],
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Spotify Ads Announcer",
+        "genres": [
+          "commercials",
+          "advertising"
+        ],
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Spotify Free Ad Break",
+        "artist": "Spotify Advertising",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100"
+      },
+      {
+        "name": "Broke Boy Anthems",
+        "artist": "Spotify Free User",
+        "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=100"
+      }
+    ]
+  },
+  {
+    "id": "fb505f0a-44fe-4dbc-968e-44d0f88230b3",
+    "created_at": "2026-08-15T16:29:51.998Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "tale impala",
+        "weekend",
+        "lana da rey",
+        "djo"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "TikTok Algorithmic NPC",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to tale impala and weekend. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "tale impala",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "weekend",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "lana da rey",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "djo",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "96bc953d-b595-455b-8118-8dd30fa47189",
+    "created_at": "2026-08-15T16:35:57.667Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isEmptyAccount": true
+    },
+    "title": "Ghost Account",
+    "roast_text": "You haven't listened to enough music for us to roast you. Go listen to something other than the voices in your head.",
+    "level": "NO DATA FOUND",
+    "is_premium_restricted": false,
+    "is_offline": true,
+    "top_artists": [],
+    "top_tracks": []
+  },
+  {
+    "id": "ae8e30c6-9082-45ee-863e-edb14ca16a85",
+    "created_at": "2026-08-15T16:36:41.734Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "tale impala",
+        "weekend",
+        "djo",
+        "lanadarey"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "The Chaotic Mashup of Regrets",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to tale impala and weekend. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "tale impala",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "weekend",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "djo",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "lanadarey",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "476aa592-28b3-4b74-933b-8ed01e2cc814",
+    "created_at": "2026-08-15T16:40:35.007Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isEmptyAccount": true
+    },
+    "title": "Ghost Account",
+    "roast_text": "You haven't listened to enough music for us to roast you. Go listen to something other than the voices in your head.",
+    "level": "NO DATA FOUND",
+    "is_premium_restricted": false,
+    "is_offline": true,
+    "top_artists": [],
+    "top_tracks": []
+  },
+  {
+    "id": "58d420b4-d191-40c3-85ad-2d093038a7c1",
+    "created_at": "2026-08-15T16:41:15.085Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "tale impala"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "TikTok Algorithmic NPC",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to tale impala and other questionable choices. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "tale impala",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "902a7679-50a0-4816-ac41-f25f3a3c33b1",
+    "created_at": "2026-08-15T16:44:57.790Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isEmptyAccount": true
+    },
+    "title": "Ghost Account",
+    "roast_text": "You haven't listened to enough music for us to roast you. Go listen to something other than the voices in your head.",
+    "level": "NO DATA FOUND",
+    "is_premium_restricted": false,
+    "is_offline": true,
+    "top_artists": [],
+    "top_tracks": []
+  },
+  {
+    "id": "5fcc2e01-8bbd-49e7-9134-a099356cf636",
+    "created_at": "2026-08-15T16:46:33.526Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "weekend"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "The Chaotic Mashup of Regrets",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to weekend and other questionable choices. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "weekend",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "cc2daef3-2497-4529-b10e-054360cc6743",
+    "created_at": "2026-08-15T16:51:10.538Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "The Beatles",
+        "Queen"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "Pretentious Coffee Shop Dweller",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to The Beatles and Queen. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "Queen",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "b53ccbc0-8104-4ec9-aef7-949622df3a5c",
+    "created_at": "2026-08-15T17:04:39.090Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "The Beatles",
+        "Queen"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "TikTok Algorithmic NPC",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to The Beatles and Queen. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "Queen",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "acce12de-935f-4ea5-91b8-4edb2905d7ac",
+    "created_at": "2026-08-15T17:05:13.108Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "The Beatles",
+        "Queen"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "The AUX Offender",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to The Beatles and Queen. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "Queen",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "8d76d292-6003-4f6d-8d28-9cf57c1452a0",
+    "created_at": "2026-08-15T17:06:19.225Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "The Beatles",
+        "Rolling Stones"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "TikTok Algorithmic NPC",
+    "roast_text": "Your music taste has no identity. You are stuck in the middle, too scared to be basic but too lazy to find actual underground music. Your top genre is \"manual taste\". It's a vibe, but mostly a warning sign to others.  You spend way too much time listening to The Beatles and Rolling Stones. Please expand your horizons.  Do yourself and your friends a favor: let someone else control the music.",
+    "level": "MEDIOCRE & BORING",
+    "is_offline": true,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "Rolling Stones",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "6d9aef9f-f05b-4b06-97aa-b272c141a88b",
+    "created_at": "2026-08-15T17:06:53.105Z",
+    "spotify_user": "Broke AUX User",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [
+        "manual taste"
+      ],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [
+        "The Beatles",
+        "Rolling Stones"
+      ],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isManual": true
+    },
+    "title": "Retro-Fitted Beige NPC",
+    "roast_text": "Oh look, the final boss of the 'born in the wrong generation' starter pack. You've got the Beatles and the Stones on loop like a divorced dad desperately gatekeeping the AUX cord. But those audio stats? A flat 0.50 for energy, danceability, and happiness is the most aggressively lukewarm, beige-flavored profile imaginable. You are the human equivalent of unseasoned tofu. And with 'Recently Played' sitting at absolute zero, what happened? Did your turntable finally break, or are you just sitting in dead silence realizing that dad-rock isn't a substitute for an actual personality? Even a dial-up modem has more vibe than your current emotional flatline.",
+    "level": "BOOMER IN TRAINING",
+    "is_offline": false,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "genres": [],
+        "image": null
+      },
+      {
+        "name": "Rolling Stones",
+        "genres": [],
+        "image": null
+      }
+    ],
+    "top_tracks": []
+  },
+  {
+    "id": "c900b281-b566-4e7c-8af2-b8d38ef68891",
+    "created_at": "2026-08-16T05:34:48.336Z",
+    "spotify_user": "Broke NPC",
+    "user_avatar": null,
+    "signals": {
+      "popularity": 50,
+      "genres": [],
+      "vibe": {
+        "valence": 0.5,
+        "energy": 0.5,
+        "danceability": 0.5
+      },
+      "artistNames": [],
+      "trackNames": [],
+      "recentlyPlayed": [],
+      "isEmptyAccount": true
+    },
+    "title": "The Sentient Loading Screen",
+    "roast_text": "Bro, your Spotify profile is cleaner than my browser history after an FBI raid. Literally nothing? You have zero top artists, zero tracks, and an audio vibe of exactly 0.50 across the board. You are the human equivalent of lukewarm tap water or a default gray avatar that somehow learned to breathe. Did you sign up just to stare at the search bar, or are you in witness protection? You’re so devoid of flavor that even the algorithm gave up and coded you as 'Null.' Go stream literally anything, you absolute digital ghost, before Spotify deletes your account out of sheer embarrassment.",
+    "level": "CLINICALLY BLAND GHOST",
+    "is_premium_restricted": false,
+    "is_offline": false,
+    "top_artists": [],
+    "top_tracks": []
+  }
+]
